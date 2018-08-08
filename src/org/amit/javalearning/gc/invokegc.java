@@ -1,4 +1,4 @@
-package org.amit.javalearning.garbagecollection;
+package org.amit.javalearning.gc;
 
 import java.util.Date;
 
