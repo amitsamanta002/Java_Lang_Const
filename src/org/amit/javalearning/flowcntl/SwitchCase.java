@@ -24,7 +24,7 @@ public class SwitchCase {
 		        break;*/
 	//This throws compiler error as it duplicate and evauate at compiler time.
 				
-		case 3: System.out.println("value is 3");
+		case 3: System.out.println("value	 is 3");
 				break;
 	//	case c: System.out.println("Value of C is final but initialize latter");
 	//			break;
